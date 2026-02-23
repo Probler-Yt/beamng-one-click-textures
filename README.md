@@ -54,16 +54,10 @@ This addon reads BeamNG's own `.materials.json` definitions and DDS texture file
 | 60+ grey materials, everything unassigned | Full PBR materials, ready to render |
 | Manual drag-drop nightmare | One button click |
 | 2 hours of your life gone | 10 seconds |
+| ![Before](assets/Before.gif) | ![After](assets/After.gif) |
+
 
 > *"Some people are brave and insane enough to do all that manually. This addon is for the rest of us."*
-
-## 📸 Results
-
-**Before** grey ghost car with zero textures
-![Before](assets/Before.gif)
-
-**After** one click later
-![After](assets/After.gif)
 
 ---
 
