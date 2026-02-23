@@ -57,6 +57,14 @@ This addon reads BeamNG's own `.materials.json` definitions and DDS texture file
 
 > *"Some people are brave and insane enough to do all that manually. This addon is for the rest of us."*
 
+## 📸 Results
+
+**Before** grey ghost car with zero textures
+![Before](assets/before.gif)
+
+**After** one click later
+![After](assets/after.gif)
+
 ---
 
 ## ⚡ Quick Start
